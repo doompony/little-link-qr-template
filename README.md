@@ -14,8 +14,9 @@ Generated with A1111 WebUI
 
 ## Setup
 
-1. Create repo from template
+1. Create repo from template and run `setup.py` to configure local git
 2. Add images/refs appropriately and app buttons
-3. Deploy to Vercel
-4. Generate QR Codes with A1111
-5. Distribute QR Codes
+3. `python -m http.server -d dist 8000` to view locally at `http://localhost:8000/`
+4. Deploy to Vercel
+5. Generate QR Codes with A1111
+6. Distribute QR Codes
