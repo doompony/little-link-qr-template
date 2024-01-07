@@ -10,6 +10,7 @@
 
 ## QR Codes
 
+Initially generate with https://qrdex.io/
 Generated with A1111 WebUI
 
 ## Setup
