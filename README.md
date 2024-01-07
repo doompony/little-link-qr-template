@@ -2,7 +2,9 @@
 
 ## Deployments
 
-[vercel](https://vercel.com/dashboard)
+With custom domain: [vercel](https://vercel.com/dashboard)
+
+Otherwise will use GH Pages via Actions
 
 ## Current Sites
 
