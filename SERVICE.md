@@ -4,12 +4,13 @@ See [INFO.md](INFO.md) for more details on the components
 
 ## Options (Sales Pitch Below)
 
-1. Build my site and give it to me - I'll handle hosting: $100
-2. Build my site, and host it at `https://doompony.github.io/my-site`: $100 + $50/annually
-3. Build my site, and host it at `https://myname.github.io/links`: $100 + $100/annually
-4. Build my site, and host it at a custom domain: $100 site build + $200 Domain/DNS setup + $100/annually
+1. I'll build your site and hand it off - you handle hosting: $100
+2. I'll build your site and host it at `https://doompony.github.io/my-site`: $100 + $50/annually
+3. I'll build your site and host it at `https://myname.github.io/links`: $100 + $100/annually
+4. I'll build your site and host it at a custom domain: $100 site build + $200 Domain/DNS setup + $100/annually + Domain Cost
 
-In any event - I will provide 10 QR code examples to choose from, and will provide more options at a rate of $10 per batch of 10 codes
+In any event - I will provide 10 QR code examples to choose from, and will
+provide more options at a rate of $10 per batch of 10 codes
 
 [Example QR Codes](https://github.com/doompony/little-link-qr-template/tree/main/qr/example1)
 
