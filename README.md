@@ -1,5 +1,7 @@
 # Little Link + QR Codes Template
 
+# I have archived this in favor of working on [My Digital Harbor](https://mydigitalharbor.com)
+
 ## Deployments
 
 With custom domain: [vercel](https://vercel.com/dashboard)
